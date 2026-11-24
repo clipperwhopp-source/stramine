@@ -1,0 +1,530 @@
+{
+  "checked_utc": "2026-11-24T21:14:09.551042+00:00",
+  "site": "https://clipperwhopp-source.github.io/stramine/",
+  "canonical_pages": 27,
+  "pages": [
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 8139,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/en/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/en/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 8139,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/en/apps/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/en/apps/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 5408,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/apps/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/en/about/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/en/about/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 4419,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/about/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/en/support/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/en/support/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 4532,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/support/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/en/privacy/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/en/privacy/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 4650,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/privacy/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/en/contact/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/en/contact/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 4063,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/contact/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/en/delete-account/wallpair/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/en/delete-account/wallpair/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 4542,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/delete-account/wallpair/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/en/apps/wallpair/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/en/apps/wallpair/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 8707,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/apps/wallpair/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/en/privacy/wallpair/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/en/privacy/wallpair/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 5277,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/privacy/wallpair/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/en/support/wallpair/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/en/support/wallpair/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 5084,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/support/wallpair/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/en/apps/bi-durum-usta/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/en/apps/bi-durum-usta/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 8980,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/apps/bi-durum-usta/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/en/privacy/bi-durum-usta/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/en/privacy/bi-durum-usta/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 5260,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/privacy/bi-durum-usta/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/en/support/bi-durum-usta/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/en/support/bi-durum-usta/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 5086,
+      "lang": "en",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/en/support/bi-durum-usta/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/tr/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/tr/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 8407,
+      "lang": "tr",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/tr/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/tr/apps/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/tr/apps/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 5576,
+      "lang": "tr",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/tr/apps/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/tr/about/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/tr/about/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 4468,
+      "lang": "tr",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/tr/about/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/tr/support/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/tr/support/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 4697,
+      "lang": "tr",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/tr/support/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/tr/privacy/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/tr/privacy/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 4837,
+      "lang": "tr",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/tr/privacy/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/tr/contact/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/tr/contact/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 4089,
+      "lang": "tr",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/tr/contact/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/tr/delete-account/wallpair/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/tr/delete-account/wallpair/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 4573,
+      "lang": "tr",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/tr/delete-account/wallpair/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/tr/apps/wallpair/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/tr/apps/wallpair/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9036,
+      "lang": "tr",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/tr/apps/wallpair/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/tr/privacy/wallpair/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/tr/privacy/wallpair/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 5373,
+      "lang": "tr",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/tr/privacy/wallpair/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/tr/support/wallpair/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/tr/support/wallpair/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 5269,
+      "lang": "tr",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/tr/support/wallpair/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/tr/apps/bi-durum-usta/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/tr/apps/bi-durum-usta/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9167,
+      "lang": "tr",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/tr/apps/bi-durum-usta/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/tr/privacy/bi-durum-usta/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/tr/privacy/bi-durum-usta/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 5348,
+      "lang": "tr",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/tr/privacy/bi-durum-usta/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    },
+    {
+      "url": "https://clipperwhopp-source.github.io/stramine/tr/support/bi-durum-usta/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/stramine/tr/support/bi-durum-usta/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 5267,
+      "lang": "tr",
+      "canonical": "https://clipperwhopp-source.github.io/stramine/tr/support/bi-durum-usta/",
+      "h1_count": 1,
+      "hreflang": [
+        "en",
+        "tr",
+        "x-default"
+      ]
+    }
+  ],
+  "preserved_legacy_urls": [
+    {
+      "name": "wallpair_root",
+      "url": "https://wallpair.pages.dev/",
+      "status": 200
+    },
+    {
+      "name": "wallpair_pair",
+      "url": "https://wallpair.pages.dev/pair",
+      "status": 200
+    },
+    {
+      "name": "wallpair_support",
+      "url": "https://wallpair.pages.dev/support/",
+      "status": 200
+    },
+    {
+      "name": "wallpair_terms",
+      "url": "https://wallpair.pages.dev/terms/",
+      "status": 200
+    },
+    {
+      "name": "wallpair_delete",
+      "url": "https://wallpair.pages.dev/delete-account/",
+      "status": 200
+    },
+    {
+      "name": "wallpair_tutorial",
+      "url": "https://wallpair.pages.dev/tutorial/",
+      "status": 200
+    },
+    {
+      "name": "wallpair_tutorial_ios",
+      "url": "https://wallpair.pages.dev/tutorial/ios/",
+      "status": 200
+    },
+    {
+      "name": "wallpair_tutorial_android",
+      "url": "https://wallpair.pages.dev/tutorial/android/",
+      "status": 200
+    },
+    {
+      "name": "wallpair_aasa",
+      "url": "https://wallpair.pages.dev/.well-known/apple-app-site-association",
+      "status": 200
+    },
+    {
+      "name": "wallpair_assetlinks",
+      "url": "https://wallpair.pages.dev/.well-known/assetlinks.json",
+      "status": 200
+    },
+    {
+      "name": "wallpair_privacy",
+      "url": "https://clipperwhopp-source.github.io/wallpair-privacy/",
+      "status": 200
+    },
+    {
+      "name": "game_root",
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/",
+      "status": 200
+    },
+    {
+      "name": "game_tr",
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/",
+      "status": 200
+    },
+    {
+      "name": "game_en",
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/",
+      "status": 200
+    },
+    {
+      "name": "game_privacy_tr",
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/privacy/",
+      "status": 200
+    },
+    {
+      "name": "game_privacy_en",
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/privacy/",
+      "status": 200
+    },
+    {
+      "name": "game_support_tr",
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/support/",
+      "status": 200
+    },
+    {
+      "name": "game_support_en",
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/support/",
+      "status": 200
+    },
+    {
+      "name": "game_contact_tr",
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/contact/",
+      "status": 200
+    },
+    {
+      "name": "game_contact_en",
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/contact/",
+      "status": 200
+    },
+    {
+      "name": "game_app_ads",
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/app-ads.txt",
+      "status": 200
+    },
+    {
+      "name": "wallpair_appstore",
+      "url": "https://apps.apple.com/tr/app/id6790543121",
+      "status": 200
+    },
+    {
+      "name": "game_appstore",
+      "url": "https://apps.apple.com/tr/app/id6832259538",
+      "status": 200
+    }
+  ],
+  "errors": []
+}

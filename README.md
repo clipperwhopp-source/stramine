@@ -9,6 +9,8 @@ python3 site.py
 python3 scripts/check_site.py
 ```
 
+After deployment, `python3 scripts/check_live.py` checks every canonical public page and the previously inventoried app URLs, then writes `reports/live-http-check.json`.
+
 Open locally with a symlink so `/stramine/` resolves:
 
 ```sh
