@@ -1,0 +1,179 @@
+{
+  "observed_utc": "2026-11-24T20:57:56.067073+00:00",
+  "method": "GET without account cookies, ordinary Python urllib client; results may vary by territory/network",
+  "results": {
+    "wallpair_root": {
+      "url": "https://wallpair.pages.dev/",
+      "status": 200,
+      "effective_url": "https://wallpair.pages.dev/",
+      "content_type": "text/html; charset=utf-8",
+      "sample_bytes": 512
+    },
+    "wallpair_pair": {
+      "url": "https://wallpair.pages.dev/pair",
+      "status": 200,
+      "effective_url": "https://wallpair.pages.dev/pair",
+      "content_type": "text/html; charset=utf-8",
+      "sample_bytes": 512
+    },
+    "wallpair_support": {
+      "url": "https://wallpair.pages.dev/support/",
+      "status": 200,
+      "effective_url": "https://wallpair.pages.dev/support/",
+      "content_type": "text/html; charset=utf-8",
+      "sample_bytes": 512
+    },
+    "wallpair_terms": {
+      "url": "https://wallpair.pages.dev/terms/",
+      "status": 200,
+      "effective_url": "https://wallpair.pages.dev/terms/",
+      "content_type": "text/html; charset=utf-8",
+      "sample_bytes": 512
+    },
+    "wallpair_delete": {
+      "url": "https://wallpair.pages.dev/delete-account/",
+      "status": 200,
+      "effective_url": "https://wallpair.pages.dev/delete-account/",
+      "content_type": "text/html; charset=utf-8",
+      "sample_bytes": 512
+    },
+    "wallpair_tutorial": {
+      "url": "https://wallpair.pages.dev/tutorial/",
+      "status": 200,
+      "effective_url": "https://wallpair.pages.dev/tutorial/",
+      "content_type": "text/html; charset=utf-8",
+      "sample_bytes": 512
+    },
+    "wallpair_tutorial_ios": {
+      "url": "https://wallpair.pages.dev/tutorial/ios/",
+      "status": 200,
+      "effective_url": "https://wallpair.pages.dev/tutorial/ios/",
+      "content_type": "text/html; charset=utf-8",
+      "sample_bytes": 512
+    },
+    "wallpair_tutorial_android": {
+      "url": "https://wallpair.pages.dev/tutorial/android/",
+      "status": 200,
+      "effective_url": "https://wallpair.pages.dev/tutorial/android/",
+      "content_type": "text/html; charset=utf-8",
+      "sample_bytes": 512
+    },
+    "wallpair_aasa": {
+      "url": "https://wallpair.pages.dev/.well-known/apple-app-site-association",
+      "status": 200,
+      "effective_url": "https://wallpair.pages.dev/.well-known/apple-app-site-association",
+      "content_type": "application/json",
+      "sample_bytes": 199
+    },
+    "wallpair_assetlinks": {
+      "url": "https://wallpair.pages.dev/.well-known/assetlinks.json",
+      "status": 200,
+      "effective_url": "https://wallpair.pages.dev/.well-known/assetlinks.json",
+      "content_type": "application/json",
+      "sample_bytes": 512
+    },
+    "wallpair_privacy": {
+      "url": "https://clipperwhopp-source.github.io/wallpair-privacy/",
+      "status": 200,
+      "effective_url": "https://clipperwhopp-source.github.io/wallpair-privacy/",
+      "content_type": "text/html; charset=utf-8",
+      "sample_bytes": 512
+    },
+    "game_root": {
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/",
+      "status": 200,
+      "effective_url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/",
+      "content_type": "text/html",
+      "sample_bytes": 512
+    },
+    "game_tr": {
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/",
+      "status": 200,
+      "effective_url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/",
+      "content_type": "text/html",
+      "sample_bytes": 512
+    },
+    "game_en": {
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/",
+      "status": 200,
+      "effective_url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/",
+      "content_type": "text/html",
+      "sample_bytes": 512
+    },
+    "game_privacy_tr": {
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/privacy/",
+      "status": 200,
+      "effective_url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/privacy/",
+      "content_type": "text/html",
+      "sample_bytes": 512
+    },
+    "game_privacy_en": {
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/privacy/",
+      "status": 200,
+      "effective_url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/privacy/",
+      "content_type": "text/html",
+      "sample_bytes": 512
+    },
+    "game_support_tr": {
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/support/",
+      "status": 200,
+      "effective_url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/support/",
+      "content_type": "text/html",
+      "sample_bytes": 512
+    },
+    "game_support_en": {
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/support/",
+      "status": 200,
+      "effective_url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/support/",
+      "content_type": "text/html",
+      "sample_bytes": 512
+    },
+    "game_contact_tr": {
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/contact/",
+      "status": 200,
+      "effective_url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/contact/",
+      "content_type": "text/html",
+      "sample_bytes": 512
+    },
+    "game_contact_en": {
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/contact/",
+      "status": 200,
+      "effective_url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/contact/",
+      "content_type": "text/html",
+      "sample_bytes": 512
+    },
+    "game_app_ads": {
+      "url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/app-ads.txt",
+      "status": 200,
+      "effective_url": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/app-ads.txt",
+      "content_type": "text/plain",
+      "sample_bytes": 59
+    },
+    "wallpair_appstore": {
+      "url": "https://apps.apple.com/tr/app/id6790543121",
+      "status": 200,
+      "effective_url": "https://apps.apple.com/tr/app/wallpair-pair-share/id6790543121",
+      "content_type": "text/html",
+      "sample_bytes": 512
+    },
+    "game_appstore": {
+      "url": "https://apps.apple.com/tr/app/id6832259538",
+      "status": 200,
+      "effective_url": "https://apps.apple.com/tr/app/bi-d%C3%BCr%C3%BCm-usta-%C3%A7i%C4%9F-k%C3%B6ftecim/id6832259538",
+      "content_type": "text/html",
+      "sample_bytes": 512
+    },
+    "wallpair_play_tr": {
+      "url": "https://play.google.com/store/apps/details?id=com.clipper.wallpair&hl=tr&gl=TR",
+      "status": 404,
+      "effective_url": "https://play.google.com/store/apps/details?id=com.clipper.wallpair&hl=tr&gl=TR",
+      "content_type": "text/html; charset=utf-8"
+    },
+    "game_play_tr": {
+      "url": "https://play.google.com/store/apps/details?id=com.clipper.cigkoftesimulator&hl=tr&gl=TR",
+      "status": 404,
+      "effective_url": "https://play.google.com/store/apps/details?id=com.clipper.cigkoftesimulator&hl=tr&gl=TR",
+      "content_type": "text/html; charset=utf-8"
+    }
+  }
+}

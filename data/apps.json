@@ -1,0 +1,78 @@
+[
+  {
+    "slug": "wallpair",
+    "name": "WallPair: Pair & Share",
+    "short_name": "WallPair",
+    "published": true,
+    "type": "SoftwareApplication",
+    "category": "Private photo and wallpaper sharing",
+    "store_seller": "Askin Gunduz",
+    "icon": "wallpair-icon.webp",
+    "screenshots": ["wallpair-shot1.webp", "wallpair-shot2.webp", "wallpair-shot3.webp", "wallpair-shot4.webp"],
+    "app_store": "https://apps.apple.com/tr/app/wallpair-pair-share/id6790543121",
+    "google_play": null,
+    "privacy_original": "https://clipperwhopp-source.github.io/wallpair-privacy/",
+    "support_original": "https://wallpair.pages.dev/support/",
+    "delete_original": "https://wallpair.pages.dev/delete-account/",
+    "terms_original": "https://wallpair.pages.dev/terms/",
+    "policy_date": {"en": "21 August 2026", "tr": "21 Ağustos 2026"},
+    "available": {"ios": true, "android": false},
+    "seo": {
+      "en": {"title": "WallPair — Private Photo Sharing", "description": "WallPair lets two trusted people privately share meaningful photos and wallpapers through a one-to-one connection."},
+      "tr": {"title": "WallPair — İki Kişilik Özel Paylaşım", "description": "WallPair, güvendiğiniz tek bir kişiyle fotoğraf ve duvar kâğıtlarını özel bir bağlantı içinde paylaşmanızı sağlar."}
+    },
+    "copy": {
+      "en": {
+        "eyebrow": "A private space for two",
+        "headline": "A little closer, wherever you are.",
+        "summary": "Connect with one trusted partner and privately share photos and wallpapers that mean something to you both.",
+        "features": ["Pair with a trusted person using an ID, QR code or invite link.", "Choose a photo or wallpaper and send it within your private connection.", "Keep sharing between two people, without a public social feed."]
+      },
+      "tr": {
+        "eyebrow": "İki kişi için özel bir alan",
+        "headline": "Nerede olursanız olun, biraz daha yakın.",
+        "summary": "Güvendiğiniz tek bir kişiyle bağlanın; sizin için anlamlı fotoğraf ve duvar kâğıtlarını özel olarak paylaşın.",
+        "features": ["Kimlik, QR kodu veya davet bağlantısıyla güvendiğiniz kişiyle eşleşin.", "Fotoğraf veya duvar kâğıdı seçip özel bağlantınız üzerinden gönderin.", "Herkese açık bir akış olmadan iki kişi arasında paylaşın."]
+      }
+    }
+  },
+  {
+    "slug": "bi-durum-usta",
+    "name": "Bi Dürüm Usta! - Çiğ Köftecim",
+    "short_name": "Bi Dürüm Usta!",
+    "published": true,
+    "type": "VideoGame",
+    "category": "Cooking and restaurant simulation game",
+    "store_seller": "Askin Gunduz",
+    "icon": "bidurum-icon.webp",
+    "screenshots": {"en": ["bidurum-en-prepare.webp", "bidurum-en-rush.webp", "bidurum-en-shop.webp"], "tr": ["bidurum-tr-prepare.webp", "bidurum-tr-rush.webp", "bidurum-tr-shop.webp"]},
+    "app_store": "https://apps.apple.com/tr/app/bi-d%C3%BCr%C3%BCm-usta-%C3%A7i%C4%9F-k%C3%B6ftecim/id6832259538",
+    "google_play": null,
+    "privacy_original": {"en": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/privacy/", "tr": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/privacy/"},
+    "support_original": {"en": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/support/", "tr": "https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/support/"},
+    "policy_date": {"en": "8 November 2026", "tr": "8 Kasım 2026"},
+    "available": {"ios": true, "android": false},
+    "seo": {
+      "en": {"title": "Bi Dürüm Usta! — Turkish Cooking Game", "description": "A Turkish street food cooking game: prepare çiğ köfte wraps, serve customers and customize your restaurant across four cities and 32 levels."},
+      "tr": {"title": "Bi Dürüm Usta! — Çiğ Köfte Oyunu", "description": "Çiğ köfte ve dürüm hazırlama oyunu: müşteri siparişlerini yetiştir, dört şehirde 32 bölüm oyna ve restoranını düzenle."}
+    },
+    "genre": {
+      "en": "A Turkish street food cooking simulator with restaurant service and shop customization.",
+      "tr": "Çiğ köfte oyunu, dürüm sarma ve restoran servisini tek deneyimde birleştirir."
+    },
+    "copy": {
+      "en": {
+        "eyebrow": "A Turkish street-food game",
+        "headline": "Roll it. Serve it. Make the shop yours.",
+        "summary": "Prepare çiğ köfte wraps, keep up with customer orders and make your restaurant your own across four Turkish cities and 32 levels.",
+        "features": ["Prepare ingredients and swipe to roll a dürüm.", "Serve wraps, plates and drinks as orders get busier.", "Play 32 levels across four cities and decorate your shop with currency earned in the game."]
+      },
+      "tr": {
+        "eyebrow": "Türk sokak lezzetlerinden bir oyun",
+        "headline": "Hazırla. Sar. Servis et.",
+        "summary": "Çiğ köfte dürümü hazırla, müşteri siparişlerini yetiştir ve dört şehirdeki 32 bölüm boyunca dükkânına kendi tarzını kat.",
+        "features": ["Malzemeleri hazırla ve lavaşı kaydırarak dürüm sar.", "Dürüm, porsiyon ve içecekleri artan sipariş temposunda servis et.", "Dört şehirde 32 bölüm oyna; oyun içinde kazandığın parayla dükkânını süsle."]
+      }
+    }
+  }
+]

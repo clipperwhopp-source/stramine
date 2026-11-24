@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clipperwhopp-source.github.io/stramine/sitemap.xml

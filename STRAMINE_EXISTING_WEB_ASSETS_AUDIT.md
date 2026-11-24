@@ -1,0 +1,38 @@
+# STRAMINE mevcut web varlıkları envanteri
+
+**Gözlem:** 24 Kasım 2026. [HTTP GET sonuçları](reports/legacy-url-status.json) hesapsız, sıradan istemciyle alındı. `R` = uygulama kaynak kodunda veya tarihli mağaza kaydında referans var; `?` = güncel mağaza alanı/ikili doğrulanamadı. Google Play 404 sonuçları yalnız Türkiye/anonim sorgu için geçerlidir.
+
+| Mevcut URL | Uygulama / amaç | Sahip / sağlayıcı | HTTP | Dil | İkili / mağaza referansı | Güvenli taşınma | Aynen kalmalı | STRAMINE karşılığı |
+|---|---|---|---:|---|---|---|---|---|
+| [wallpair.pages.dev/](https://wallpair.pages.dev/) | WallPair ana / davet hostu | Cloudflare Pages; hesap sahibi panelden teyit edilemedi | 200 | EN/TR | R: Associated Domains hostu | Hayır | **Evet** | `/tr/apps/wallpair/`, `/en/apps/wallpair/` |
+| [/pair](https://wallpair.pages.dev/pair) | Eşleştirme / davet | Cloudflare Pages; sahip teyitsiz | 200 | EN/TR | R: Universal/App Links | Hayır | **Evet** | Yok; işlev bu hostta kalır |
+| [/support/](https://wallpair.pages.dev/support/) | Resmî WallPair destek | Cloudflare Pages; sahip teyitsiz | 200 | EN/TR | R: iOS/Android kaynak; mağaza alanı güncel teyitsiz | Yalnız dizin bağlantısı | **Evet** | `/tr/support/wallpair/`, `/en/support/wallpair/` |
+| [/terms/](https://wallpair.pages.dev/terms/) | Onaylı kullanım koşulları | Cloudflare Pages; sahip teyitsiz | 200 | EN/TR | R: iOS/Android kaynak | Hayır | **Evet** | WallPair destek/gizlilik sayfalarından bağlantı |
+| [/delete-account/](https://wallpair.pages.dev/delete-account/) | Hesap silme talimatı | Cloudflare Pages; sahip teyitsiz | 200 | EN/TR | R: iOS/Android kaynak | Hayır | **Evet** | `/tr/delete-account/wallpair/`, `/en/delete-account/wallpair/` |
+| [/tutorial/](https://wallpair.pages.dev/tutorial/) | Genel yardım | Cloudflare Pages; sahip teyitsiz | 200 | EN/TR | R: iOS kaynak | Hayır | **Evet** | WallPair destek dizininden özgün sayfaya bağlantı |
+| [/tutorial/ios/](https://wallpair.pages.dev/tutorial/ios/) | iOS rehberi | Cloudflare Pages; sahip teyitsiz | 200 | EN/TR | Destek sayfasından bağlantı | Hayır | **Evet** | WallPair resmî desteği |
+| [/tutorial/android/](https://wallpair.pages.dev/tutorial/android/) | Android rehberi | Cloudflare Pages; sahip teyitsiz | 200 | EN/TR | Destek sayfasından bağlantı | Hayır | **Evet** | WallPair resmî desteği |
+| [AASA](https://wallpair.pages.dev/.well-known/apple-app-site-association) | iOS Universal Links doğrulaması | Cloudflare Pages; sahip teyitsiz | 200 JSON | — | R: iOS Associated Domains | **Hayır** | **Evet** | Yok |
+| [assetlinks.json](https://wallpair.pages.dev/.well-known/assetlinks.json) | Android App Links doğrulaması | Cloudflare Pages; sahip teyitsiz | 200 JSON | — | R: Android links | **Hayır** | **Evet** | Yok |
+| [wallpair-privacy/](https://clipperwhopp-source.github.io/wallpair-privacy/) | WallPair tam gizlilik metni | `clipperwhopp-source/wallpair-privacy`; GitHub Pages built | 200 | EN/TR | R: iOS/Android kaynak | Yalnız dizin bağlantısı | **Evet** | `/tr/privacy/wallpair/`, `/en/privacy/wallpair/` |
+| [oyun sitesi /](https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/) | Bi Dürüm Usta ana giriş | ChatGPT Sites; proje `appgprj_6aee9c9c0f8c8191b4131f8de00ce84c`, public | 200 | EN/TR | R: oyun sitesi | Hayır; eski site korunur | **Evet** | `/tr/apps/bi-durum-usta/`, `/en/apps/bi-durum-usta/` |
+| [oyun /tr/](https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/) | Türkçe oyun tanıtımı | ChatGPT Sites; mevcut hesap | 200 | TR | R: pazarlama URL’si tarihli kayıtlarda | Hayır | **Evet** | `/tr/apps/bi-durum-usta/` |
+| [oyun /en/](https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/) | İngilizce oyun tanıtımı | ChatGPT Sites; mevcut hesap | 200 | EN | R: pazarlama URL’si tarihli kayıtlarda | Hayır | **Evet** | `/en/apps/bi-durum-usta/` |
+| [oyun /tr/privacy/](https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/privacy/) | Türkçe oyun gizlilik politikası | ChatGPT Sites; mevcut hesap | 200 | TR | R: App Store Connect tarihli kayıt ve proje kaynakları | **Hayır**; yasal metin eşdeğeri teyitsiz | **Evet** | `/tr/privacy/bi-durum-usta/` dizini |
+| [oyun /en/privacy/](https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/privacy/) | İngilizce oyun gizlilik politikası | ChatGPT Sites; mevcut hesap | 200 | EN | R: App Store Connect tarihli kayıt ve proje kaynakları | **Hayır** | **Evet** | `/en/privacy/bi-durum-usta/` dizini |
+| [oyun /tr/support/](https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/support/) | Türkçe oyun desteği | ChatGPT Sites; mevcut hesap | 200 | TR | R: tarihli ASC kayıtları | Yalnız dizin bağlantısı | **Evet** | `/tr/support/bi-durum-usta/` |
+| [oyun /en/support/](https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/support/) | İngilizce oyun desteği | ChatGPT Sites; mevcut hesap | 200 | EN | R: tarihli ASC kayıtları | Yalnız dizin bağlantısı | **Evet** | `/en/support/bi-durum-usta/` |
+| [oyun /tr/contact/](https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/tr/contact/) | Türkçe iletişim | ChatGPT Sites; mevcut hesap | 200 | TR | Site içi bağlantı | Yalnız dizin bağlantısı | **Evet** | `/tr/contact/` |
+| [oyun /en/contact/](https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/en/contact/) | İngilizce iletişim | ChatGPT Sites; mevcut hesap | 200 | EN | Site içi bağlantı | Yalnız dizin bağlantısı | **Evet** | `/en/contact/` |
+| [oyun app-ads.txt](https://bi-durum-usta-stramine.clipper-whopp.chatgpt.site/app-ads.txt) | Reklam yetkilendirme kaydı | ChatGPT Sites; mevcut hesap | 200 text | — | Reklam ekosisteminde kullanılabilir; mağaza ilişkilendirmesi teyitsiz | **Hayır** | **Evet** | Yok; STRAMINE köküne kopyalanmadı |
+| [WallPair App Store](https://apps.apple.com/tr/app/id6790543121) | Resmî iOS ürün kaydı | Apple / satıcı Askin Gunduz | 200 | TR mağazası | Canlı ürün | Hayır | **Evet** | WallPair ürün sayfasında bağlantı |
+| [Bi Dürüm Usta App Store](https://apps.apple.com/tr/app/id6832259538) | Resmî iOS ürün kaydı | Apple / satıcı Askin Gunduz | 200 | TR mağazası | Canlı ürün | Hayır | **Evet** | Oyun ürün sayfasında bağlantı |
+| [WallPair Google Play TR](https://play.google.com/store/apps/details?id=com.clipper.wallpair&hl=tr&gl=TR) | Android ürün adayı | Google Play / hesap durumu bu turda açılamadı | 404 | TR | Genel yayın teyitsiz | — | — | İndirme düğmesi yok |
+| [Bi Dürüm Usta Google Play TR](https://play.google.com/store/apps/details?id=com.clipper.cigkoftesimulator&hl=tr&gl=TR) | Android ürün adayı | Google Play / hesap durumu bu turda açılamadı | 404 | TR | Genel yayın teyitsiz | — | — | İndirme düğmesi yok |
+
+## Taşıma kararı ve sınırlar
+
+- **WallPair `wallpair.pages.dev` hostuna hiç yazılmadı.** `/pair`, AASA, `assetlinks.json`, destek, koşullar ve hesap silme yolları mevcut 200 durumunda kalır. Eşleştirme için STRAMINE karşılığı oluşturulmadı.
+- **Bi Dürüm Usta’nın mevcut Sites yayınına yazılmadı.** Politika, destek ve `app-ads.txt` eski adresinde kalır. Stramine gizlilik sayfaları **tam politika kopyası değil, uygulamaya özel dizindir**. Tam metne ve gerçek revizyon tarihine doğrudan gider; canlı mağaza politika URL’leri yeniden işaretlenmez.
+- Oyunun 8 Kasım politika metninde hâlâ “henüz mağazada yayımlanmamıştır” ifadesi görülüyor; 24 Kasım iOS yayınıyla çelişiyor. Yasal metin sessizce değiştirilmedi. Sahip onaylı bir politika düzeltmesi ve mevcut URL’de yayımlama daha sonra değerlendirilmeli.
+- `Cloudflare Pages` hesabının yönetim paneli bu oturumda giriş istedi. `wallpair.pages.dev` sahipliği ve ayarları hesaptan doğrulanamadı. Başka müşteri, kişisel veya ticari siteler STRAMINE kapsamına alınmadı.
